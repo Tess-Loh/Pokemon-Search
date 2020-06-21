@@ -1,0 +1,45 @@
+@import "color.scss";
+
+body{
+    font-family: Teko;
+    font-size: 1rem;
+    font-size: 22px;
+    font-weight: normal;
+    font-style: normal;
+    color:$black;
+}
+
+h1{
+    font-family: Teko;
+    font-size: 2.2rem;
+    font-size: 48px;
+    text-transform: uppercase;
+}
+
+h2{
+    font-family: Teko;
+    font-size: 1.1rem;
+    font-size: 24px;
+    color:$dark-grey;
+    font-weight: 600;
+    font-style: normal;
+}
+
+p{
+    font-family: Teko;
+    font-size: 1.1rem;
+    font-size: 24px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+a{
+    font-family: Teko;
+    font-size: 1.0rem;
+    font-size: 22px;
+}
+
+
+
+

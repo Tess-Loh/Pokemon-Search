@@ -1,0 +1,24 @@
+@import "color.scss";
+
+button{
+    &.custom-btn{
+        &.btn{
+            &.btn-primary{
+                width: 150px;
+                border-radius: 20px;
+                padding: 5px;
+                margin-top: 20px;
+                font-size: 22px;
+                font-weight: 300;
+                background: $blue;
+                border: none;
+
+                &:focus, &:hover, &:active{
+                background: darken($blue, 10%);
+                }
+            }
+        }
+    }
+}
+
+
