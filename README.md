@@ -4,10 +4,10 @@ Easy access to data on your Pokemon
 
 Steps to run the application
 
-Clone repo
+1. Clone repo
 
-npm install
+2. npm install
 
-npm start
+3. npm start
 
-http://localhost:8080/
+4. http://localhost:8080/
