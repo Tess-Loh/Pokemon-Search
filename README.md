@@ -2,8 +2,9 @@
 Easy access to data on your Pokemon
 
 Steps to run the application
-1.Clone repo
 
-2.npm install
+1. Clone repo
 
-3.npm start
+2. npm install
+
+3. npm start
